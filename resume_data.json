@@ -1,0 +1,29 @@
+{
+    "personal_info": {
+        "name": "Morgan Maxwell",
+        "email": "maxwell@morgan.com",
+        "phone": "+123-456-7890",
+        "address": "123 Anywhere St., Any City"
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Fine Arts in Graphic Design",
+            "institution": "Paucek and Lage University",
+            "year_of_passing": 2020
+        }
+    ],
+    "work_experience": [
+        {
+            "company": "Fradel and",
+            "role": "Senior Graphic Designer",
+            "duration": "June 2022 - May 2024",
+            "location": "Any City"
+        },
+        {
+            "company": "Borcelle Company",
+            "role": "Graphic Designer",
+            "duration": "January 2020 - March 2022",
+            "location": "Any City"
+        }
+    ]
+}
